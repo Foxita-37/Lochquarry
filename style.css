@@ -93,5 +93,6 @@ a:hover {
 }
 
 div {
-  font-color: #111111;
+  width:300px;
+  margin:auto;
 }
